@@ -2,7 +2,7 @@
 ![MasterHead](https://ermprotect.com/wp-content/uploads/2021/08/Password-Hacker_adobespark-2.png)
 <h1 align="center">Hey 👋, I'm Athin</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pbathin&label=Profile%20views&color=0e75b6&style=flat" alt="pbathin" /> </p>
-<img align="right" alt="Coding" width="500" src="https://camo.githubusercontent.com/0c02f5167d8919b93691a2e9d844d3618b53a1b32f84365e5799ec25b0f70812/68747470733a2f2f6d7963616e6e616269736163636f756e74616e742e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30322f65383763353639333937393137332e356537663963346431346536342e676966">
+<img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/0c02f5167d8919b93691a2e9d844d3618b53a1b32f84365e5799ec25b0f70812/68747470733a2f2f6d7963616e6e616269736163636f756e74616e742e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30322f65383763353639333937393137332e356537663963346431346536342e676966">
 
 
 - 🔭 I’m currently studying **Information Science & Engineering**
