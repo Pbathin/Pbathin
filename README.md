@@ -2,7 +2,7 @@
 ![MasterHead](https://ermprotect.com/wp-content/uploads/2021/08/Password-Hacker_adobespark-2.png)
 <h1 align="center">Hey 👋, I'm Athin</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pbathin&label=Profile%20views&color=0e75b6&style=flat" alt="pbathin" /> </p>
-<img align="right" alt="Coding" width="450" src="https://camo.githubusercontent.com/0c02f5167d8919b93691a2e9d844d3618b53a1b32f84365e5799ec25b0f70812/68747470733a2f2f6d7963616e6e616269736163636f756e74616e742e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30322f65383763353639333937393137332e356537663963346431346536342e676966">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/0c02f5167d8919b93691a2e9d844d3618b53a1b32f84365e5799ec25b0f70812/68747470733a2f2f6d7963616e6e616269736163636f756e74616e742e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30322f65383763353639333937393137332e356537663963346431346536342e676966">
 
 
 - 🔭 I’m currently studying **Information Science & Engineering**
@@ -29,5 +29,5 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pbathin&show_icons=true&locale=en" alt="pbathin" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pbathin&" alt="pbathin" /></p>
+<p2>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pbathin&show_icons=true&locale=en" alt="pbathin" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pbathin&" alt="pbathin" /></p2>
 
