@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **Ethical Hacking & coding**
 
-- 💬 Ask me about **C,C++ & java**
+- 💬 Ask me about **C,C++,java,JavaScript, Python & HTML**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
