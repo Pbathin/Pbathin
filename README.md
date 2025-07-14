@@ -76,10 +76,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pbathin&layout=compact&theme=tokyonight" width="48%" alt="Top Languages" />
 </p>
 
-<p align="center">
+<!-- <p align="center"> 
   <img src="https://streak-stats.demolab.com/?user=pbathin&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
+-->
 
 ---
 
