@@ -53,10 +53,10 @@
 ### 🧰 Skills & Technologies
 
 #### 🧑‍💻 Languages  
-`Java` `JavaScript` `C` `C++` `SQL`
+`Java` `JavaScript` `TypeScript` `C` `C++` `SQL`
 
 #### 🌍 Web Dev  
-`HTML5` `CSS3` `React JS` `Node.js` `Express.js` `MongoDB`
+ `NextJS` `TailwindCSS` `React JS` `Node.js` `Express.js` `NestJS` `MongoDB`
 
 #### 📱 Mobile Dev  
 `React Native` `Firebase` `Clerk Expo`
@@ -65,7 +65,7 @@
 `MySQL` `MongoDB`
 
 #### ⚙️ Tools  
-`Git` `GitHub` `VS Code` `XAMPP` `Agile` `UI/UX Basics`
+`Git` `GitHub` `CI/CD` `XAMPP` `Agile` `UI/UX Basics`
 
 ---
 
@@ -85,6 +85,6 @@
 
 ### 🔥 Fun Fact
 
-> I enjoy building apps that *solve real-world problems* and I'm always curious to explore **ethical hacking** and **network security**.
+> I enjoy building apps that *solve real-world problems* and I'm always curious to explore **application development**, **ethical hacking** and **network security**.
 
 ---
