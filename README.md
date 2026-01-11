@@ -17,7 +17,7 @@
 
 ### 🧠 About Me
 
-- 🎓 A recent **Information Science & Engineering** graduate  
+- 🎓 A **Software Developer**  
 - 💻 Passionate about **Java**, **MERN Stack**, and **React Native**  
 - ⚙️ Experienced with Firebase, Clerk Expo, REST APIs & SQL  
 - 📲 Building full-stack web and mobile apps  
