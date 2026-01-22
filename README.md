@@ -21,7 +21,7 @@
 - 💻 Passionate about **Java**, **MERN Stack**, and **React Native**  
 - ⚙️ Experienced with Firebase, Clerk Expo, REST APIs & SQL  
 - 📲 Building full-stack web and mobile apps  
-- 📬 Reach me at: `athin04pb@gmail.com`
+
 
 ---
 
