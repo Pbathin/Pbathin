@@ -6,9 +6,6 @@
 <h1 align="center">Hey 👋, I'm Athin</h1>
 <p align="center">Recent BE graduaate | Full Stack Developer | Cyber Security Enthusiast 🚀</p>
 
-<h1 align="center">Hey 👋, I'm Athin</h1>
-<p align="center">Recent BE graduaate | Full Stack Developer | Cyber Security Enthusiast 🚀</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pbathin&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
