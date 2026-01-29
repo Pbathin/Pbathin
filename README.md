@@ -17,11 +17,6 @@
 
 ### 🧠 About Me
 
-- 🎓 A **Software Developer**  
-- 💻 Passionate about **MERN Stack**, **React Native** and **Cyber Security**  
-- ⚙️ Experienced with Firebase, Clerk Expo, REST APIs & SQL  
-- 📲 Building full-stack web and mobile apps  
-- 📬 Reach me at: `athin04pb@gmail.com`
 
 ---
 
