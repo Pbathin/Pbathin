@@ -1,10 +1,9 @@
 <!-- ========================= HERO BANNER ========================= -->
 
 <p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=ATHIN%20P%20B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
     width="100%"
-    alt="Banner"
   />
 </p>
 
@@ -12,13 +11,20 @@
 
 <p align="center">
   <strong>
-    Software Engineer @ Tecnotree | Full Stack Developer | Building Scalable SaaS & Secure Systems 🚀
+    Software Engineer @ Tecnotree | Full Stack Developer | Scalable SaaS & Secure Systems 🚀
   </strong>
 </p>
 
 <p align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=pbathin&label=Profile%20Views&color=0e75b6&style=flat" 
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=React.js+%7C+Next.js+%7C+Node.js;Building+Production-Grade+Applications;Full+Stack+Developer;Cybersecurity+%26+System+Design+Enthusiast"
+    alt="Typing Animation"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=pbathin&label=Profile%20Views&color=2563eb&style=flat"
     alt="Profile Views"
   />
 </p>
@@ -27,19 +33,19 @@
 
 <!-- ========================= ABOUT ========================= -->
 
-<img 
-  align="right" 
-  alt="Coding" 
-  width="350" 
-  src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"
+<img
+  align="right"
+  alt="Coding"
+  width="320"
+  src="https://user-images.githubusercontent.com/74038190/213911167-25c6f6d1-7d36-4d2d-b5d2-61c9d1f5f0c6.gif"
 />
 
 ## 🧠 About Me
 
 - 💼 Software Engineer at **Tecnotree**
-- ⚛️ Building scalable web apps using **React.js**, **Next.js**, and **Node.js**
+- ⚛️ Building scalable applications using **React.js**, **Next.js**, and **Node.js**
 - 🔐 Interested in secure system design, RBAC & authentication architectures
-- 📱 Developing cross-platform mobile apps using **React Native**
+- 📱 Developing cross-platform applications using **React Native**
 - 🚀 Passionate about scalable systems, clean UI/UX and performance optimization
 - 🌍 Working on B2B & B2B2X telecom SaaS platforms
 - 📬 Reach me at: **athin04pb@gmail.com**
@@ -80,8 +86,8 @@
   </a>
 
   <a href="https://www.hackerrank.com/athin04pb" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" 
+    <img
+      src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"
       height="30"
     />
   </a>
@@ -94,29 +100,31 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,react,nextjs,nodejs,nestjs,express,react,mongodb,mysql,redis,firebase,git,github,gitlab,postman,docker,tailwind,vscode&perline=7" />
+  <img
+    src="https://skillicons.dev/icons?i=java,js,ts,react,nextjs,nodejs,nestjs,express,mongodb,mysql,redis,firebase,git,github,gitlab,postman,docker,tailwind,vscode&perline=6"
+  />
 </p>
 
 ---
 
-<!-- ========================= FEATURED PROJECTS ========================= -->
+<!-- ========================= PROJECTS ========================= -->
 
 ## 💼 Featured Projects
 
 ### 🚀 DaanSethu
-> Cross-platform donation platform built using React Native, Firebase, and Clerk authentication.
+> Cross-platform donation platform built using React Native, Firebase, and Clerk authentication with real-time donor-recipient interaction.
 
 🔗 https://github.com/Pbathin/Daan-sethu
 
 ---
 
 ### 📱 Quiz App
-> React Native quiz application with dynamic categories and animated UI transitions.
+> React Native quiz application featuring animated transitions, responsive UI, and dynamic categories.
 
 ---
 
 ### 🧪 Laboratory Management System
-> Java + MySQL platform for lab bookings and inventory management.
+> Java + MySQL platform for lab bookings and inventory management with optimized backend queries.
 
 🔗 https://github.com/Pbathin/Laboratory-Management-system-
 
@@ -135,39 +143,29 @@
 
 ---
 
-<!-- ========================= STATS ========================= -->
+<!-- ========================= GITHUB STATS ========================= -->
 
 ## 📈 GitHub Stats
 
 <p align="center">
 
-  <img 
+  <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=pbathin&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"
+    src="https://github-readme-stats.vercel.app/api?username=pbathin&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
   />
 
-  <img 
+  <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pbathin&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pbathin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
   />
 
 </p>
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=pbathin&theme=tokyonight&hide_border=true&border_radius=10"
+  <img
+    src="https://streak-stats.demolab.com?user=pbathin&theme=tokyonight&hide_border=true"
   />
 </p>
-
----
-
-<!-- ========================= TROPHIES ========================= -->
-
-## 🏆 Achievements
-
-- 🥇 Top 7 Finalist — Anveshan 2025
-- 🥉 3rd Prize — IASF 2024
-- 🚀 Built production-grade telecom SaaS platforms at Tecnotree
 
 ---
 
@@ -176,11 +174,21 @@
 ## 📊 Contribution Graph
 
 <p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=pbathin&theme=tokyo-night&hide_border=true"
+  <img
     width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=pbathin&theme=tokyo-night&hide_border=true"
   />
 </p>
+
+---
+
+<!-- ========================= ACHIEVEMENTS ========================= -->
+
+## 🏆 Achievements
+
+- 🥇 Top 7 Finalist — **Anveshan 2025**
+- 🥉 3rd Prize — **IASF 2024**
+- 🚀 Built production-grade telecom SaaS platforms at Tecnotree
 
 ---
 
