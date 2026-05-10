@@ -1,10 +1,20 @@
-<!-- Banner and Header -->
+<!-- ========================= HEADER / BANNER ========================= -->
+
 <p align="center">
-  <img src="https://ermprotect.com/wp-content/uploads/2021/08/Password-Hacker_adobespark-2.png" alt="Banner" width="100%" />
+  <img 
+    src="https://images.unsplash.com/photo-1515879218367-8466d910aaa4?q=80&w=2070&auto=format&fit=crop"
+    alt="Developer Banner"
+    width="100%"
+  />
 </p>
 
 <h1 align="center">Hey 👋, I'm Athin</h1>
-<p align="center">Recent BE graduaate | Full Stack Developer | Cyber Security Enthusiast 🚀</p>
+
+<p align="center">
+  <strong>
+    Software Engineer @ Tecnotree | Full Stack Developer | Building Scalable SaaS & Secure Systems 🚀
+  </strong>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pbathin&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -12,80 +22,177 @@
 
 ---
 
-<!-- GIF Animation -->
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4d7d0153.gif" />
+<!-- ========================= ABOUT ========================= -->
 
-### 🧠 About Me
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 🎓 A **Software Developer**  
-- 💻 Passionate about **MERN Stack**, **React Native** and **Cyber Security**  
-- ⚙️ Experienced with Firebase, Clerk Expo, REST APIs & SQL  
-- 📲 Building full-stack web and mobile apps  
-- 📬 Reach me at: `athin04pb@gmail.com`
-- 
+## 🧠 About Me
+
+- 💼 Software Engineer at **Tecnotree** working on telecom SaaS platforms
+- ⚛️ Building scalable web applications using **React.js**, **Next.js**, and **Node.js**
+- 🔐 Interested in secure system design, RBAC authorization & authentication architectures
+- 📱 Developing cross-platform mobile applications using **React Native**
+- 🚀 Passionate about scalable systems, clean UI/UX, and performance optimization
+- 🌍 Working on B2B & B2B2X solutions for global telecom operators
+- 📬 Reach me at: **athin04pb@gmail.com**
 
 ---
 
-### 🌐 Connect with Me
+## 🚀 Currently Working On
+
+- Multi-tenant governance platforms
+- RBAC authorization systems
+- JWT & session authentication
+- Redis caching strategies
+- Scalable NestJS backend architecture
+- React Native mobile applications
+- API integrations & distributed systems
+
+---
+
+<!-- ========================= CONNECT ========================= -->
+
+## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://twitter.com/athinpb1" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="30" alt="Twitter" /></a>
-  <a href="https://linkedin.com/in/athinpb" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/athin_p_b" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="30" alt="Instagram" /></a>
-  <a href="https://www.hackerrank.com/athin04pb" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="28" /></a>
-  <a href="https://github.com/pbathin" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="30" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/athinpb" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="35" />
+  </a>
+
+  <a href="https://github.com/pbathin" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="35" />
+  </a>
+
+  <a href="https://twitter.com/athinpb1" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="35" />
+  </a>
+
+  <a href="https://instagram.com/athin_p_b" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="35" />
+  </a>
+
+  <a href="https://www.hackerrank.com/athin04pb" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="30" />
+  </a>
 </p>
 
 ---
 
-### 💼 Featured Projects
+<!-- ========================= TECH STACK ========================= -->
 
-🚀 **Daan Sethu**  
-> A React Native + Firebase app enabling community donations and volunteer actions, with real-time data and secure Clerk login.
+## 🛠️ Tech Stack
 
-📱 **Quiz App**  
-> A clean React Native quiz app featuring dynamic categories, local state tracking, and animated UI transitions.
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,ts,c,cpp,sql" />
+</p>
 
-🧪 **Lab Management System**  
-> Java + MySQL platform for lab test bookings and efficient inventory handling.
+### 🌐 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,materialui" />
+</p>
+
+### ⚙️ Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+</p>
+
+### 📱 Mobile Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react" />
+</p>
+
+### 🗄️ Databases & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,redis" />
+</p>
+
+### 🔧 Tools & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,docker,vscode" />
+</p>
 
 ---
 
-### 🧰 Skills & Technologies
+<!-- ========================= FEATURED PROJECTS ========================= -->
 
-#### 🧑‍💻 Languages  
-`Java` `JavaScript` `TypeScript` `C` `C++` `SQL`
+## 💼 Featured Projects
 
-#### 🌍 Web Dev  
- `NextJS` `TailwindCSS` `React JS` `Node.js` `Express.js` `NestJS` `MongoDB`
+### 🚀 DaanSethu
+> Cross-platform donation platform built using React Native, Firebase, and Clerk authentication.  
+> Enables real-time donor-recipient interactions with secure and scalable architecture.
 
-#### 📱 Mobile Dev  
-`React Native` `Firebase` `Clerk Expo`
-
-#### 🗃️ Databases  
-`MySQL` `MongoDB`
-
-#### ⚙️ Tools  
-`Git` `GitHub` `CI/CD` `XAMPP` `Agile` `UI/UX Basics`
+🔗 https://github.com/Pbathin/Daan-sethu
 
 ---
 
-### 📈 GitHub Stats
+### 📱 Quiz App
+> React Native quiz application with dynamic categories, animated transitions, and responsive UI/UX.
+
+---
+
+### 🧪 Laboratory Management System
+> Java + MySQL platform for lab bookings and inventory management with optimized backend queries.
+
+🔗 https://github.com/Pbathin/Laboratory-Management-system-
+
+---
+
+<!-- ========================= EXPERIENCE ========================= -->
+
+## 💼 Experience
+
+### 🏢 Software Engineer — Tecnotree
+- Developing scalable telecom SaaS platforms for global telecom operators
+- Building React.js / Next.js interfaces and integrating APIs
+- Working on UAT deployments, authentication systems, and configuration-driven UI architecture
+- Collaborating across Agile teams to deliver production-grade applications
+
+---
+
+<!-- ========================= GITHUB STATS ========================= -->
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pbathin&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pbathin&layout=compact&theme=tokyonight" width="48%" alt="Top Languages" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=pbathin&show_icons=true&theme=tokyonight"
+    width="48%"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pbathin&layout=compact&theme=tokyonight"
+    width="48%"
+  />
 </p>
 
- <p align="center"> 
-  <img src="https://streak-stats.demolab.com/?user=pbathin&theme=tokyonight" alt="GitHub Streak" />
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com/?user=pbathin&theme=tokyonight"
+    alt="GitHub Streak"
+  />
 </p>
-
 
 ---
 
-### 🔥 Fun Fact
+<!-- ========================= ACHIEVEMENTS ========================= -->
 
-> I enjoy building apps that *solve real-world problems* and I'm always curious to explore **application development**, **ethical hacking** and **network security**.
+## 🏆 Achievements
+
+- 🥇 Top 7 Finalist — **Anveshan 2025**
+- 🥉 3rd Prize — **IASF 2024** for “Mobile Controlled Arecanut Pesticide Sprayer”
+- 🚀 Built production-grade telecom platforms at Tecnotree
 
 ---
+
+<!-- ========================= FUN FACT ========================= -->
+
+## 🔥 Fun Fact
+
+> I enjoy building applications that solve real-world problems and exploring scalable systems, cybersecurity, and distributed architectures.
+
+---
+
+<p align="center">
+  ⭐️ From <a href="https://github.com/pbathin">Athin</a>
+</p>
