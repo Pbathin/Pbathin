@@ -1,8 +1,8 @@
-<!-- ========================= HERO BANNER ========================= -->
+<!-- ========================= HERO ========================= -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=ATHIN%20P%20B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=190&section=header&text=ATHIN%20P%20B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
     width="100%"
   />
 </p>
@@ -11,13 +11,17 @@
 
 <p align="center">
   <strong>
-    Software Engineer @ Tecnotree | Full Stack Developer | Scalable SaaS & Secure Systems 🚀
+    Software Engineer • Full Stack Developer • Secure & Scalable Systems
   </strong>
 </p>
 
 <p align="center">
+  Building enterprise-grade SaaS platforms, scalable backend systems, and modern mobile/web applications.
+</p>
+
+<p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=React.js+%7C+Next.js+%7C+Node.js;Building+Production-Grade+Applications;Full+Stack+Developer;Cybersecurity+%26+System+Design+Enthusiast"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=1000&center=true&vCenter=true&width=700&lines=React.js+%7C+Next.js+%7C+NestJS+%7C+Node.js;Building+Production-Grade+Applications;System+Design+%7C+Authentication+Architecture;Distributed+Systems+%7C+Scalable+SaaS+Platforms"
     alt="Typing Animation"
   />
 </p>
@@ -37,17 +41,18 @@
   align="right"
   alt="Coding"
   width="320"
-  src="https://user-images.githubusercontent.com/74038190/213911167-25c6f6d1-7d36-4d2d-b5d2-61c9d1f5f0c6.gif"
+  src="https://user-images.githubusercontent.com/74038190/212897782-96581576-8d28-4e9e-93d7-4f0b5127b0ef.gif"
 />
 
 ## 🧠 About Me
 
 - 💼 Software Engineer at **Tecnotree**
-- ⚛️ Building scalable applications using **React.js**, **Next.js**, and **Node.js**
-- 🔐 Interested in secure system design, RBAC & authentication architectures
-- 📱 Developing cross-platform applications using **React Native**
-- 🚀 Passionate about scalable systems, clean UI/UX and performance optimization
-- 🌍 Working on B2B & B2B2X telecom SaaS platforms
+- ⚛️ Building scalable SaaS platforms using **React.js**, **Next.js**, and **Node.js**
+- 🔐 Passionate about secure authentication systems, RBAC & distributed architectures
+- 📱 Developing modern mobile applications with **React Native**
+- 🚀 Interested in system design, backend architecture & scalable infrastructure
+- 🌍 Working on B2B & B2B2X telecom platforms used by global operators
+- 🧩 Freelancer building custom full-stack applications for clients
 - 📬 Reach me at: **athin04pb@gmail.com**
 
 ---
@@ -55,12 +60,12 @@
 ## 🚀 Currently Working On
 
 - Multi-tenant governance platforms
-- RBAC authorization systems
-- JWT & session authentication
-- Redis caching strategies
+- JWT & session-based authentication systems
+- Redis session infrastructure
 - Scalable NestJS backend architecture
-- React Native mobile applications
-- API integrations & distributed systems
+- Workflow automation systems
+- Distributed system patterns
+- Mobile-first React Native applications
 
 ---
 
@@ -101,32 +106,9 @@
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=java,js,ts,react,nextjs,nodejs,nestjs,express,mongodb,mysql,redis,firebase,git,github,gitlab,postman,docker,tailwind,vscode&perline=6"
+    src="https://skillicons.dev/icons?i=java,js,ts,react,nextjs,nodejs,nestjs,express,react,mongodb,mysql,redis,firebase,git,github,gitlab,postman,docker,tailwind,vscode&perline=6"
   />
 </p>
-
----
-
-<!-- ========================= PROJECTS ========================= -->
-
-## 💼 Featured Projects
-
-### 🚀 DaanSethu
-> Cross-platform donation platform built using React Native, Firebase, and Clerk authentication with real-time donor-recipient interaction.
-
-🔗 https://github.com/Pbathin/Daan-sethu
-
----
-
-### 📱 Quiz App
-> React Native quiz application featuring animated transitions, responsive UI, and dynamic categories.
-
----
-
-### 🧪 Laboratory Management System
-> Java + MySQL platform for lab bookings and inventory management with optimized backend queries.
-
-🔗 https://github.com/Pbathin/Laboratory-Management-system-
 
 ---
 
@@ -134,16 +116,82 @@
 
 ## 💼 Experience
 
-### 🏢 Software Engineer — Tecnotree
+### 🏢 Software Developer — Tecnotree
 
-- Building scalable telecom SaaS platforms for global telecom operators
-- Developing React.js / Next.js interfaces
-- Working on authentication systems & API integrations
-- Collaborating across Agile teams for production-grade deployments
+- Developing scalable telecom SaaS platforms for global telecom operators
+- Building React.js / Next.js interfaces & API-driven systems
+- Working on authentication systems, UAT deployments & production-grade workflows
+- Collaborating across Agile teams to deliver enterprise applications
+- Contributing to performance optimization & scalable UI architecture
 
 ---
 
-<!-- ========================= GITHUB STATS ========================= -->
+### 🧩 Freelance Full Stack Developer
+
+- Building modern web applications and custom client solutions
+- Designing responsive UI/UX systems and scalable backend APIs
+- Delivering production-ready full-stack applications
+
+🔗 https://acureatus-apb.vercel.app/
+
+---
+
+<!-- ========================= PROJECTS ========================= -->
+
+## 💼 Featured Projects
+
+### 🏛️ DDIMS — Digital Diocese Information Management System
+
+> Enterprise-grade diocesan ecosystem management platform built with scalable architecture and secure authentication workflows.
+
+### 🔥 Key Highlights
+- Multi-tenant architecture
+- JWT + Refresh Token authentication
+- Redis session infrastructure
+- Membership approval workflows
+- Region & zone hierarchy management
+- Secure mobile authentication
+- Distributed session architecture
+
+### ⚙️ Tech Stack
+`NestJS` `MongoDB` `Redis` `React Native` `Expo` `Redux Toolkit` `JWT` `Turborepo`
+
+---
+
+### 🚀 DaanSethu
+
+> Cross-platform donation platform enabling real-time donor-recipient interaction with secure authentication workflows.
+
+### ⚙️ Tech Stack
+`React Native` `Firebase` `Node.js` `REST APIs`
+
+🔗 https://github.com/Pbathin/Daan-sethu
+
+---
+
+### 🌐 Acureatus
+
+> Freelance production-grade web platform focused on modern UI/UX and scalable frontend architecture.
+
+### ⚙️ Tech Stack
+`React.js` `Next.js` `TailwindCSS`
+
+🔗 https://acureatus-apb.vercel.app/
+
+---
+
+### 🧪 Laboratory Management System
+
+> Java + MySQL platform for laboratory bookings and inventory management.
+
+### ⚙️ Tech Stack
+`Java` `MySQL`
+
+🔗 https://github.com/Pbathin/Laboratory-Management-system-
+
+---
+
+<!-- ========================= STATS ========================= -->
 
 ## 📈 GitHub Stats
 
@@ -186,15 +234,23 @@
 
 ## 🏆 Achievements
 
-- 🥇 Top 7 Finalist — **Anveshan 2025**
-- 🥉 3rd Prize — **IASF 2024**
+- 🥇 Top 7 Finalist — Anveshan 2025
+- 🥉 3rd Prize — IASF 2024
 - 🚀 Built production-grade telecom SaaS platforms at Tecnotree
+- 🔐 Designed scalable authentication & session-management architectures
 
 ---
 
-## 🔥 Fun Fact
+## 🔥 Engineering Interests
 
-> I enjoy building applications that solve real-world problems and exploring scalable systems, cybersecurity, and distributed architectures.
+- Distributed Systems
+- Authentication Architecture
+- Scalable SaaS Platforms
+- Secure Backend Systems
+- API Design
+- System Design
+- Performance Optimization
+- Mobile & Web Platforms
 
 ---
 
