@@ -1,10 +1,10 @@
-<!-- ========================= HEADER / BANNER ========================= -->
+<!-- ========================= HERO BANNER ========================= -->
 
 <p align="center">
   <img 
-    src="https://images.unsplash.com/photo-1515879218367-8466d910aaa4?q=80&w=2070&auto=format&fit=crop"
-    alt="Developer Banner"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
     width="100%"
+    alt="Banner"
   />
 </p>
 
@@ -17,23 +17,31 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pbathin&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img 
+    src="https://komarev.com/ghpvc/?username=pbathin&label=Profile%20Views&color=0e75b6&style=flat" 
+    alt="Profile Views"
+  />
 </p>
 
 ---
 
 <!-- ========================= ABOUT ========================= -->
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img 
+  align="right" 
+  alt="Coding" 
+  width="350" 
+  src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"
+/>
 
 ## 🧠 About Me
 
-- 💼 Software Engineer at **Tecnotree** working on telecom SaaS platforms
-- ⚛️ Building scalable web applications using **React.js**, **Next.js**, and **Node.js**
-- 🔐 Interested in secure system design, RBAC authorization & authentication architectures
-- 📱 Developing cross-platform mobile applications using **React Native**
-- 🚀 Passionate about scalable systems, clean UI/UX, and performance optimization
-- 🌍 Working on B2B & B2B2X solutions for global telecom operators
+- 💼 Software Engineer at **Tecnotree**
+- ⚛️ Building scalable web apps using **React.js**, **Next.js**, and **Node.js**
+- 🔐 Interested in secure system design, RBAC & authentication architectures
+- 📱 Developing cross-platform mobile apps using **React Native**
+- 🚀 Passionate about scalable systems, clean UI/UX and performance optimization
+- 🌍 Working on B2B & B2B2X telecom SaaS platforms
 - 📬 Reach me at: **athin04pb@gmail.com**
 
 ---
@@ -50,7 +58,7 @@
 
 ---
 
-<!-- ========================= CONNECT ========================= -->
+<!-- ========================= SOCIALS ========================= -->
 
 ## 🌐 Connect With Me
 
@@ -72,7 +80,10 @@
   </a>
 
   <a href="https://www.hackerrank.com/athin04pb" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="30" />
+    <img 
+      src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" 
+      height="30"
+    />
   </a>
 </p>
 
@@ -82,34 +93,8 @@
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,ts,c,cpp,sql" />
-</p>
-
-### 🌐 Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,materialui" />
-</p>
-
-### ⚙️ Backend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
-</p>
-
-### 📱 Mobile Development
-<p>
-  <img src="https://skillicons.dev/icons?i=react" />
-</p>
-
-### 🗄️ Databases & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,redis" />
-</p>
-
-### 🔧 Tools & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,docker,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,react,nextjs,nodejs,nestjs,express,react,mongodb,mysql,redis,firebase,git,github,gitlab,postman,docker,tailwind,vscode&perline=7" />
 </p>
 
 ---
@@ -119,20 +104,19 @@
 ## 💼 Featured Projects
 
 ### 🚀 DaanSethu
-> Cross-platform donation platform built using React Native, Firebase, and Clerk authentication.  
-> Enables real-time donor-recipient interactions with secure and scalable architecture.
+> Cross-platform donation platform built using React Native, Firebase, and Clerk authentication.
 
 🔗 https://github.com/Pbathin/Daan-sethu
 
 ---
 
 ### 📱 Quiz App
-> React Native quiz application with dynamic categories, animated transitions, and responsive UI/UX.
+> React Native quiz application with dynamic categories and animated UI transitions.
 
 ---
 
 ### 🧪 Laboratory Management System
-> Java + MySQL platform for lab bookings and inventory management with optimized backend queries.
+> Java + MySQL platform for lab bookings and inventory management.
 
 🔗 https://github.com/Pbathin/Laboratory-Management-system-
 
@@ -143,49 +127,62 @@
 ## 💼 Experience
 
 ### 🏢 Software Engineer — Tecnotree
-- Developing scalable telecom SaaS platforms for global telecom operators
-- Building React.js / Next.js interfaces and integrating APIs
-- Working on UAT deployments, authentication systems, and configuration-driven UI architecture
-- Collaborating across Agile teams to deliver production-grade applications
+
+- Building scalable telecom SaaS platforms for global telecom operators
+- Developing React.js / Next.js interfaces
+- Working on authentication systems & API integrations
+- Collaborating across Agile teams for production-grade deployments
 
 ---
 
-<!-- ========================= GITHUB STATS ========================= -->
+<!-- ========================= STATS ========================= -->
 
 ## 📈 GitHub Stats
 
 <p align="center">
+
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=pbathin&show_icons=true&theme=tokyonight"
-    width="48%"
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=pbathin&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"
   />
 
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pbathin&layout=compact&theme=tokyonight"
-    width="48%"
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pbathin&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"
   />
+
 </p>
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com/?user=pbathin&theme=tokyonight"
-    alt="GitHub Streak"
+    src="https://streak-stats.demolab.com?user=pbathin&theme=tokyonight&hide_border=true&border_radius=10"
   />
 </p>
 
 ---
 
-<!-- ========================= ACHIEVEMENTS ========================= -->
+<!-- ========================= TROPHIES ========================= -->
 
 ## 🏆 Achievements
 
-- 🥇 Top 7 Finalist — **Anveshan 2025**
-- 🥉 3rd Prize — **IASF 2024** for “Mobile Controlled Arecanut Pesticide Sprayer”
-- 🚀 Built production-grade telecom platforms at Tecnotree
+- 🥇 Top 7 Finalist — Anveshan 2025
+- 🥉 3rd Prize — IASF 2024
+- 🚀 Built production-grade telecom SaaS platforms at Tecnotree
 
 ---
 
-<!-- ========================= FUN FACT ========================= -->
+<!-- ========================= ACTIVITY GRAPH ========================= -->
+
+## 📊 Contribution Graph
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=pbathin&theme=tokyo-night&hide_border=true"
+    width="100%"
+  />
+</p>
+
+---
 
 ## 🔥 Fun Fact
 
